@@ -25,17 +25,17 @@ I'm a front end developer...
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-# Title
+## Title
 
-  Bootstrap Landing Page
+ # Bootstrap Landing Page
   
 ## License
 
-  MIT
+ # MIT
 
 ## Username
 
-  codesleep
+ # codesleep
 
 ### Logo
 
@@ -47,7 +47,7 @@ I'm a front end developer...
 
 ## Description
 
-  A simple landing page made with Bootstrap 4
+ # A simple landing page made with Bootstrap 4
 
 ## Screenshots
 
@@ -66,7 +66,7 @@ I'm a front end developer...
 
 ## Usage
 
-Educational exercise for using bootsrap 4 
+# Educational exercise for using bootsrap 4 
   
 ## Installation
 ```
@@ -75,7 +75,7 @@ npm install bootstrap 4.0
   
 ## Learn
   
-  Grid, Absolute, Relative, Fixed Attachment, Cover and Contain
+ # Grid, Absolute, Relative, Fixed Attachment, Cover and Contain
 
 ## Test
 
@@ -117,5 +117,5 @@ to be continued...........
 
 
   
-  THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
+# THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
   
