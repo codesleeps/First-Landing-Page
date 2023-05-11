@@ -65,10 +65,12 @@ I'm a front end developer...
 
 
 ## Usage
+
+Educational exercise for using bootsrap 4 
   
 ## Installation
 ```
-npm insdtall bootstrap 4.0
+npm install bootstrap 4.0
 ```
   
 ## Learn
