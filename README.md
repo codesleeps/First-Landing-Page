@@ -81,11 +81,39 @@ npm install bootstrap 4.0
 
   none
 
+
+
+ ## ➤ VS Code - Extensions 💻
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] Rapid API Client 🎯
+- [x] GitHub Actions 🆘
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+# Going Forward
+
+to be continued...........
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 ## Contributing
 
 
-  
-## Additional Resources
+## ➤ Additional resources ⚡️
+
+- [Coding Addict](https://johnsmilga.com)
+- [Javascript Mastery](https://www.jsmastery.pro/full-stack-web-development-bootcamp) 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Node.js](https://nodejs.org/api/synopsis.html)
+- [Rapid API](https://rapidapi.com)
+- [GitHub Actions](https://github.com/features/actions)
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 
   
