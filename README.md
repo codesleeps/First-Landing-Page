@@ -1,6 +1,8 @@
 
 # Hi!... I'm Code Sleep
 
+![water](https://github.com/codesleeps/First-Landing-Page/assets/125808990/86dbbe97-07b4-4717-82d1-517168b98c39)
+
 ## ➤ About Me
 
 I'm a front end developer...
