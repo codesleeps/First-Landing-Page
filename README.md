@@ -25,6 +25,8 @@ I'm a front end developer...
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
+![fire](https://github.com/codesleeps/First-Landing-Page/assets/125808990/bcdebcd7-4240-49d3-8166-0604b2ce5b18)
+
 ## ➤ Title
 
   Bootstrap Landing Page
@@ -44,6 +46,8 @@ I'm a front end developer...
 ## ➤ Email
 
   <codesleep43@gmail.com>
+  
+![rainbow](https://github.com/codesleeps/First-Landing-Page/assets/125808990/a0674e2d-f89b-4b76-b11b-7739f2c55c48)
 
 ## ➤ Description
 
@@ -63,6 +67,7 @@ I'm a front end developer...
 
 [Footer](https://github.com/codesleeps/First-Landing-Page/assets/125808990/57c0d890-bb27-4715-8f1a-70cd022307e2)
 
+![solar](https://github.com/codesleeps/First-Landing-Page/assets/125808990/0fa27eb9-f62e-4b18-b326-482287acea6e)
 
 ## ➤ Usage
 
@@ -73,6 +78,24 @@ I'm a front end developer...
 ```
 npm install bootstrap@5.3.0-alpha3
 ```
+ - Zip Method
+  
+       Download zip file to local device and open it 
+       
+       Then open folder your perfered way in Virtual Studo Code IDE
+       
+       Open the intergrated terminal and run the following command:
+       
+       ```
+       npm run dev
+       ```
+       You will see: output below, then click this link to open App on your device
+       ```
+       ➜  Local:   http://localhost:5173/
+       ➜  Network: use --host to expose
+       ➜  press h to show help
+       ```
+       Once opened **Paste** in a _url_ hit **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
 
 ## ➤ CDN Links
 
@@ -88,27 +111,32 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min
 
 ## ➤ Documentation
 
-[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
 [Node.js](https://nodejs.org/en/docs)
 
-## Bootstrap
+[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+![water](https://github.com/codesleeps/First-Landing-Page/assets/125808990/f7eba9c9-154e-40d0-b852-c1e8dc922d92)
+
+## ➤ Node.js 🔥
+
+Node.js is an open-source, cross-platform, JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. It is built on top of the Google V8 JavaScript engine and provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable network applications. With Node.js, developers can use JavaScript on both the front-end and the back-end of web applications, making it a popular choice for full-stack development. Node.js has a vast ecosystem of modules and packages available through npm (Node Package Manager), making it easy to add functionality and extend its capabilities. Node.js is widely used for building web servers, command-line tools, desktop applications, and more.
+
+![water](https://github.com/codesleeps/First-Landing-Page/assets/125808990/148a981f-864c-4089-a718-232adbf230bd)
+
+## ➤ Bootstrap
 
 Bootstrap is a powerful and popular front-end framework that provides a collection of tools, components, and utilities for building responsive and visually appealing websites and web applications. It offers a comprehensive set of CSS and JavaScript components, as well as pre-designed templates, to facilitate the creation of consistent and professional-looking user interfaces.
-- 1. Responsive Grid System: Bootstrap Toolkit utilizes a flexible grid system that allows you to create responsive layouts for different screen sizes and devices. The grid system is based on a 12-column layout, which can be easily customized to suit your specific needs.
-- 2. CSS Components: Bootstrap Toolkit provides a wide range of reusable CSS components that you can use to enhance the appearance and functionality of your website. These include typography, buttons, forms, tables, navigation menus, alerts, badges, and much more. The components are designed to be easy to implement and customizable to match your project's design requirements.
-- 3. JavaScript Plugins: Bootstrap Toolkit offers a variety of JavaScript plugins that can add interactive features and behaviors to your website. Some of the commonly used plugins include carousels, modals, dropdowns, tooltips, popovers, accordions, and scrollspy. These plugins are built on top of jQuery, a popular JavaScript library.
-- 4. Customizable Themes: Bootstrap Toolkit allows you to customize the look and feel of your website by choosing from a range of predefined themes or creating your own. The themes provide a consistent and visually appealing design, ensuring that your website has a professional and polished appearance.
-- 5. Mobile-First Approach: Bootstrap Toolkit follows a mobile-first approach, meaning that its components and grid system are designed to work well on mobile devices and then scale up to larger screens. This ensures that your website is optimized for a wide range of devices and provides a seamless user experience.
-- 6. Integration and Extensibility: Bootstrap Toolkit can be easily integrated with other front-end frameworks or JavaScript libraries. It also provides an extensive set of customization options, allowing you to modify the framework's variables, styles, and functionality to suit your specific needs.
+ 1. Responsive Grid System: Bootstrap Toolkit utilizes a flexible grid system that allows you to create responsive layouts for different screen sizes and devices. The grid system is based on a 12-column layout, which can be easily customized to suit your specific needs.
+ 2. CSS Components: Bootstrap Toolkit provides a wide range of reusable CSS components that you can use to enhance the appearance and functionality of your website. These include typography, buttons, forms, tables, navigation menus, alerts, badges, and much more. The components are designed to be easy to implement and customizable to match your project's design requirements.
+ 3. JavaScript Plugins: Bootstrap Toolkit offers a variety of JavaScript plugins that can add interactive features and behaviors to your website. Some of the commonly used plugins include carousels, modals, dropdowns, tooltips, popovers, accordions, and scrollspy. These plugins are built on top of jQuery, a popular JavaScript library.
+ 4. Customizable Themes: Bootstrap Toolkit allows you to customize the look and feel of your website by choosing from a range of predefined themes or creating your own. The themes provide a consistent and visually appealing design, ensuring that your website has a professional and polished appearance.
+ 5. Mobile-First Approach: Bootstrap Toolkit follows a mobile-first approach, meaning that its components and grid system are designed to work well on mobile devices and then scale up to larger screens. This ensures that your website is optimized for a wide range of devices and provides a seamless user experience.
+ 6. Integration and Extensibility: Bootstrap Toolkit can be easily integrated with other front-end frameworks or JavaScript libraries. It also provides an extensive set of customization options, allowing you to modify the framework's variables, styles, and functionality to suit your specific needs.
 
 Overall, Bootstrap is a versatile and user-friendly framework that simplifies the process of building responsive and visually appealing websites. It is widely used by developers and designers to create modern and consistent user interfaces with less effort and time.
 
+  ![water](https://github.com/codesleeps/First-Landing-Page/assets/125808990/29fe376e-5fef-4001-88ad-70a924413d4a)
 
-
-
-
-  
 ## ➤ Learn
   
   Grid, Absolute, Relative, Fixed Attachment, Cover and Contain
@@ -122,10 +150,13 @@ Overall, Bootstrap is a versatile and user-friendly framework that simplifies th
 
 Code Sleep
 
+![colored](https://github.com/codesleeps/First-Landing-Page/assets/125808990/82a0d26f-62de-4336-b599-bbeb3a506ae9)
+
 ## ➤ Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of CSD trademarks or logos is subject to and must follow CSD's Trademark & Brand Guidelines. Use of CSD trademarks or logos in modified versions of this project must not cause confusion or imply CSD sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
 
+![solar](https://github.com/codesleeps/First-Landing-Page/assets/125808990/a7565cf4-1a71-4abf-b92f-fc1118da0386)
 
 ## ➤ VS Code - Extensions 💻
 
