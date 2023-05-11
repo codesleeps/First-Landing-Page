@@ -69,8 +69,9 @@ I'm a front end developer...
  Educational exercise for using bootsrap 4 
   
 ## Installation
+
 ```
-npm install bootstrap 4.0
+npm install bootstrap@5.3.0-alpha3
 ```
 
 ## CDN Links
