@@ -27,15 +27,15 @@ I'm a front end developer...
 
 ## Title
 
- # Bootstrap Landing Page
+  Bootstrap Landing Page
   
 ## License
 
- # MIT
+ #MIT
 
 ## Username
 
- # codesleep
+  codesleep
 
 ### Logo
 
@@ -47,7 +47,7 @@ I'm a front end developer...
 
 ## Description
 
- # A simple landing page made with Bootstrap 4
+  A simple landing page made with Bootstrap 4
 
 ## Screenshots
 
@@ -66,12 +66,24 @@ I'm a front end developer...
 
 ## Usage
 
-# Educational exercise for using bootsrap 4 
+ Educational exercise for using bootsrap 4 
   
 ## Installation
 ```
 npm install bootstrap 4.0
 ```
+
+## CDN Links
+
+CSS
+```
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+```
+JS
+```
+	https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js
+ ```
+
 
 ## Documentation
 
