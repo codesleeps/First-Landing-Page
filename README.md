@@ -1,7 +1,7 @@
 
 # Hi!... I'm Code Sleep
 
-## About Me
+## ➤ About Me
 
 I'm a front end developer...
 
@@ -25,31 +25,31 @@ I'm a front end developer...
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-## Title
+## ➤ Title
 
   Bootstrap Landing Page
   
-## License
+## ➤ License
 
  #MIT
 
-## Username
+## ➤ Username
 
   codesleep
 
-### Logo
+### ➤ Logo
 
 ![Screenshot 2023-05-09 at 20 19 46](https://github.com/codesleeps/First-Landing-Page/assets/125808990/577ef91f-9406-41e6-b07e-1357b3bd9992)
   
-## Email
+## ➤ Email
 
   <codesleep43@gmail.com>
 
-## Description
+## ➤ Description
 
   A simple landing page made with Bootstrap 4
 
-## Screenshots
+## ➤ Screenshots
 
 ![Header](https://github.com/codesleeps/First-Landing-Page/assets/125808990/909ed5e0-1f5d-4e54-9fe7-bded78a17308)
 
@@ -64,17 +64,17 @@ I'm a front end developer...
 [Footer](https://github.com/codesleeps/First-Landing-Page/assets/125808990/57c0d890-bb27-4715-8f1a-70cd022307e2)
 
 
-## Usage
+## ➤ Usage
 
  Educational exercise for using bootsrap 4 
   
-## Installation
+## ➤ Installation
 
 ```
 npm install bootstrap@5.3.0-alpha3
 ```
 
-## CDN Links
+## ➤ CDN Links
 
 CSS
 ```
@@ -86,26 +86,26 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min
 ```
 
 
-## Documentation
+## ➤ Documentation
 
 [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 [Node.js](https://nodejs.org/en/docs)
   
-## Learn
+## ➤ Learn
   
   Grid, Absolute, Relative, Fixed Attachment, Cover and Contain
 
-## Test
+## ➤ Test
 
   none
   
   
-## Authors
+## ➤ Authors
 
 Code Sleep
 
-## Trademarks
+## ➤ Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of CSD trademarks or logos is subject to and must follow CSD's Trademark & Brand Guidelines. Use of CSD trademarks or logos in modified versions of this project must not cause confusion or imply CSD sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
 
@@ -121,12 +121,12 @@ This project may contain trademarks or logos for projects, products, or services
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## Going Forward
+## ➤ Going Forward
 
 to be continued...........
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
-## Contributing
+## ➤ Contributing
 
 ![OIP (1)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/979cdab3-c75e-495f-a0cf-f30f1da216d5)
 ![OIP (7)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/ff4be9f8-b626-44ed-a936-2556d19ff550)
