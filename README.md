@@ -101,9 +101,10 @@ to be continued...........
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 ## Contributing
 
-![OIP (1)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/ae081328-7f1e-4ba4-a8cd-bc738b2d2547)
-![OIP (7)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/482b6b27-2c16-4867-8e9b-7ddcfc5062c7)
-![OIP (4)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/dbd8dbc3-46ec-4a8a-bb4d-8aa18a9a2e75)
+![OIP (1)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/979cdab3-c75e-495f-a0cf-f30f1da216d5)
+![OIP (7)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/ff4be9f8-b626-44ed-a936-2556d19ff550)
+![OIP (4)](https://github.com/codesleeps/First-Landing-Page/assets/125808990/98896a79-d298-4060-aca2-2f54f814e413)
+
 
 
 
