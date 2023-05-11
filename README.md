@@ -72,6 +72,10 @@ I'm a front end developer...
 ```
 npm install bootstrap 4.0
 ```
+
+## Documentation
+
+[Node.js](https://nodejs.org/en/docs)
   
 ## Learn
   
@@ -80,10 +84,18 @@ npm install bootstrap 4.0
 ## Test
 
   none
+  
+  
+## Authors
+
+Code Sleep
+
+## Trademarks
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of CSD trademarks or logos is subject to and must follow CSD's Trademark & Brand Guidelines. Use of CSD trademarks or logos in modified versions of this project must not cause confusion or imply CSD sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
 
 
-
- ## ➤ VS Code - Extensions 💻
+## ➤ VS Code - Extensions 💻
 
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
