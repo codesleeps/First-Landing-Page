@@ -1,0 +1,17 @@
+{
+  "name": "first-landing-page-main",
+  "version": "1.0.0",
+  "description": "December 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.2",
+    "node": "^20.1.0"
+  }
+}

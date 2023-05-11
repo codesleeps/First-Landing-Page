@@ -1,0 +1,24 @@
+ body{
+    font-family:'Arvo', serif;
+ }
+
+.height {
+ min-height: 100vh;
+}
+.title-underline {
+   width: 200px;
+   height: 5px;
+   margin: 0 auto;
+   /* background: blue!important; */
+
+}
+.height-80{
+   min-height: 80vh;
+}
+ .about-picture{ 
+   background: url(../img/about-bcg.jpg);
+   background-size: contain;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+} 
