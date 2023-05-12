@@ -139,11 +139,11 @@ Overall, Bootstrap is a versatile and user-friendly framework that simplifies th
 
   ![water](https://github.com/codesleeps/First-Landing-Page/assets/125808990/29fe376e-5fef-4001-88ad-70a924413d4a)
 
-## ➤ Learn
+## ➤ Learned
   
   Grid, Absolute, Relative, Fixed Attachment, Cover and Contain
 
-## ➤ Test
+## ➤ Tests
 
   none
   
