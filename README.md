@@ -56,6 +56,13 @@ I'm a front end developer...
 ## ➤ Description
 
   A simple landing page made with Bootstrap 4
+  
+## Features
+
+ - Modal
+ - Grid Layout
+ - Carousel
+ - Support Chat App
 
 ## ➤ Screenshots
 
